@@ -1,0 +1,34 @@
+{
+  "prices": [
+    {
+      "id": "maize",
+      "region": "South-East",
+      "commodity": "Maize (White/Yellow)",
+      "unit": "100kg Bag",
+      "average_price_ngn": 39000,
+      "price_trend": "Stable",
+      "regional_notes": "Updated via GitHub background sync",
+      "last_updated": "2026-10"
+    },
+    {
+      "id": "tomato",
+      "region": "North-Central",
+      "commodity": "Tomatoes (Fresh Basket)",
+      "unit": "Large Basket",
+      "average_price_ngn": 21000,
+      "price_trend": "Harvest Peak",
+      "regional_notes": "Updated via GitHub background sync",
+      "last_updated": "2026-10"
+    },
+    {
+      "id": "cassava",
+      "region": "South-East",
+      "commodity": "Cassava Tubers / Garri",
+      "unit": "1kg / 50kg Bag",
+      "average_price_ngn": 24000,
+      "price_trend": "Steady Demand",
+      "regional_notes": "Updated via GitHub background sync",
+      "last_updated": "2026-10"
+    }
+  ]
+}
